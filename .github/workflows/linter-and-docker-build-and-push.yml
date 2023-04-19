@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: Arm3nsk/kii-demo-01:latest
+          tags: Arm3nsk1/kii-demo-01:latest
